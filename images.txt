@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 onlyoffice/documentserver:8.0.0
 onlyoffice/documentserver:8.0.1
+onlyoffice/documentserver:8.0.2
